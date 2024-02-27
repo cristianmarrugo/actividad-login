@@ -1,0 +1,22 @@
+#formulario{
+                color: black;
+                background-color:beige;
+                width: 400px;
+                border-radius: 20px;
+                align-items: center;
+                padding-top: 20px;
+                justify-content: center;
+            
+            }
+            #contenedor {
+                
+                margin: o auto;
+                align-items: center;
+            }
+            input{
+                width: 100px;
+                margin: 20px 20px 20px 20px;
+                
+            }
+            
+            
